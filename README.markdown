@@ -73,6 +73,6 @@ calories-burned-calculator/
 ## About Me
 Hi, I'm **Manish Shiwakoti**, a passionate data analyst and developer with a focus on machine learning and web applications. Feel free to connect with me!
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/manish-shiwakoti-01721b260/)
-- **Instagram**: [Your Instagram Handle](https://www.instagram.com/manish.shiwakoti/)
+- **LinkedIn**: [Manish Shiwakoti](https://www.linkedin.com/in/manish-shiwakoti-01721b260/)
+- **Instagram**: [manish.shiwakoti](https://www.instagram.com/manish.shiwakoti/)
 - **Email**: [manishshiwakoti42@gmail.com](mailto:manishshiwakoti42@gmail.com)
